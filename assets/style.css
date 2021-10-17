@@ -1,6 +1,27 @@
 * {
   box-sizing: border-box;
-  background-color:whitesmoke
+  background-color:white;
+  font-family: sans-serif;
+}
+
+header {
+  background: gray;
+  color: lightblue;
+}
+
+header nav {
+  margin-right: 20px;
+  float: right;
+  font-size: 20px;
+}
+
+header nav ul {
+  list-style-type: none;
+}
+
+header nav ul li {
+  display: inline-block;
+  margin-left: 25px;
 }
 
 body {
@@ -12,7 +33,7 @@ body {
   height: 400px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../images/"); 
+  background-image: url("../assets/images/purplehero.png"); 
   background-size: cover;
   background-position: center;
 }
@@ -24,8 +45,13 @@ main {
   margin-top: 2%;
 }
 
-h2{
-  
+.lefth2elements {
+  border-right: darkgray;
+  border-right-style: solid;
+  border-right-width: 10px;
+  width: 300px;
+  color: darkblue;
+  font-size: xx-large;
 }
 
 .main-header {
