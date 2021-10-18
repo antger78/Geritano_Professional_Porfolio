@@ -68,16 +68,6 @@ main {
   font-size: xx-large;
 }
 
-.main-header {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-between;
-  padding: 60px;
-  background: #13293d;
-  color: #fff;
-}
-
 h2{
   float: right;
   display: flex;
@@ -90,6 +80,7 @@ img {
 }
 
 .card {
+  display: inline-block;
     flex: 1 0 0;
     padding: 10px;
     text-align: center;
