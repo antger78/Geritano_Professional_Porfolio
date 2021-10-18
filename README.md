@@ -6,11 +6,9 @@ In this assignment, we were tasked with making our first bit of original code us
 
 # Screenshots
 
-![Screenshot1]()
+![Screenshot1](https://github.com/antger78/Geritano_Professional_Porfolio/blob/main/assets/images/Top.PNG?raw=true)
 
-![Screenshot2]()
-
-![Screenshot3]()
+![Screenshot2](https://github.com/antger78/Geritano_Professional_Porfolio/blob/main/assets/images/Bottom.PNG?raw=true)
 
 # Links
 
