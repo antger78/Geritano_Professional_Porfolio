@@ -99,7 +99,7 @@ h2{
   }
 
   div{    
-    position: sticky;
+    position: relative;
     background: lightblue;
     bottom: 150px;
     width: 100px;
@@ -138,7 +138,6 @@ h2{
     float: right;
     width: auto;
     background: transparent;
-    position: relative;
   }
   
   .subtitle h2{
