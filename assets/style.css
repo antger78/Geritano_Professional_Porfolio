@@ -1,27 +1,36 @@
 * {
   box-sizing: border-box;
-  background-color:white;
+  background-color:rgb(242, 247, 255);
   font-family: sans-serif;
 }
 
 header {
   background: gray;
-  color: lightblue;
+  color: rgb(129, 159, 230);
+}
+
+header h1 {
+  display: inline-block;
+  background-color: lightblue;
+  color:gray;
 }
 
 header nav {
   margin-right: 20px;
   float: right;
   font-size: 20px;
+  background-color: gray;
 }
 
 header nav ul {
   list-style-type: none;
+  background-color: gray;
 }
 
 header nav ul li {
   display: inline-block;
   margin-left: 25px;
+  background-color: gray;
 }
 
 body {
@@ -42,6 +51,7 @@ main {
   display: flex;
   /* Forces elements to the next line if they don't fit */
   flex-wrap: wrap;
+  flex-direction: column;
   margin-top: 2%;
 }
 
@@ -63,6 +73,11 @@ main {
   padding: 60px;
   background: #13293d;
   color: #fff;
+}
+
+img {
+  width: 475px;
+  height: 223px;
 }
 
 .card {
