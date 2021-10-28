@@ -76,6 +76,7 @@ h2{
 }
 
 .card {
+  position: relative;
     display: inline-block;
     flex: 1 0 0;
     padding: 0px;
@@ -143,4 +144,28 @@ h2{
   .subtitle h2{
     background: transparent;
     color: lightblue;
+  }
+
+  .Horisen-div {
+    position: absolute;
+    background: lightblue;
+    bottom: 50px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .run-buddy-div {
+    position: absolute;
+    background: lightblue;
+    bottom: 50px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .portfolio-div{
+    position: absolute;
+    background: lightblue;
+    bottom: 50px;
+    width: 100px;
+    height: 100px;
   }
