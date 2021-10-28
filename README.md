@@ -10,7 +10,7 @@ In this assignment, we were tasked with making our first bit of original code us
 
 ![Screenshot2](https://github.com/antger78/Geritano_Professional_Porfolio/blob/main/assets/images/Bottom.PNG?raw=true)
 
-![Screenshot2](https://github.com/antger78/Geritano_Professional_Porfolio/blob/main/assets/images/mobile_render.PNG?raw=true)
+![Screenshot3](https://github.com/antger78/Geritano_Professional_Porfolio/blob/main/assets/images/mobile_render.png?raw=true)
 
 # Links
 
