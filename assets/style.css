@@ -170,6 +170,14 @@ h2{
     height: 100px;
   }
 
+  .moodRng-group-div {
+    position: absolute;
+    background: lightblue;
+    bottom: 50px;
+    width: 100px;
+    height: 100px;
+  }
+
   .portfolio-div{
     position: absolute;
     background: lightblue;
